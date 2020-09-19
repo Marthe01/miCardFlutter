@@ -1,5 +1,7 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+<img src='http://g.recordit.co/XSTykFqcWh.gif' title='Video Walkthrough' />
+
 # Mi Card
 
 ## Our Goal
